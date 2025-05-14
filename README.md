@@ -52,17 +52,17 @@ gcc -Wall -std=c99 -o MathPark AWalkInTheMathPark.c
 
 1. Code used for generating random numbers
 
-https://www.geeksforgeeks.org/generating-random-number-range-c/
+    https://www.geeksforgeeks.org/generating-random-number-range-c/
 
-2. ANSI escape sequences chart referred to for coloring texts and clearing the screen
+2. Code used for adding color to outputs
 
-https://www.theurbanpenguin.com/4184-2/
+    https://www.theurbanpenguin.com/4184-2/
 
 3. Website used for converting a text to ASCII Art
 
-https://www.asciiart.eu/text-to-ascii-art
+    https://www.asciiart.eu/text-to-ascii-art
 
 ## 🧑🏽‍💻 Author
 
-- Developed by [Rainer D. Gonzaga](https://www.github.com/octokatherine)
+Developed by **[Rainer D. Gonzaga](https://www.github.com/octokatherine)**
 
